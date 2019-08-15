@@ -1,4 +1,3 @@
-# OOP244 NAB and NC-Notes
 # OOP244 NAB and NC in-class notes and material 
 
 ## OOP244 links 
