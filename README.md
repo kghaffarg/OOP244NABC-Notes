@@ -32,7 +32,7 @@ Finally add your name and student number at the bottum.<br /><br />
 By doing this you will only lose the mark for the parts you got help for, and the person helping you will be clear of any wrong doing. 
 
 ## Visual Studio
-[How to download and install Visual Studio 2017 and create a simple C Console application](https://www.youtube.com/watch?v=rdtPA3mCsuk)<br />
+[How to download and install Visual Studio 2019 and create a simple C Console application](https://www.youtube.com/watch?v=DJsHqi5itao)<br />
 ## Coding Style:
 When writing your code you are advised NOT to have tab character in your C code; this is how to convert tab to code in VI and Vistual studio and codelite: <br />
 [Converting tab to spaces in VI](http://vim.wikia.com/wiki/Converting_tabs_to_spaces) <br />
