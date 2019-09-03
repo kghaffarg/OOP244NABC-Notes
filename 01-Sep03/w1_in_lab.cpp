@@ -5,13 +5,13 @@
 // Date	2019/09/02
 // Author	Fardad Soleimanloo
 // Description
-// This provides some source code in a single file to break 
+// This provides some source code in a single file to break
 // into modules and compile together
 //
 // Revision History
 // -----------------------------------------------------------
 // Name            Date            Reason
-// Fardad      
+// Fardad
 /////////////////////////////////////////////////////////////////
 ***********************************************************************/
 
@@ -26,11 +26,11 @@ using namespace std;
 // Fills the samples array with the statistic samples
 void getSamples(int samples[], int noOfSamples);
 // Finds the largest sample in the samples array, if it is larger than 70,
-// therwise it will return 70. 
+// therwise it will return 70.
 int findMax(int samples[], int noOfSamples);
 // Prints a scaled bar relevant to the maximum value in samples array
 void printBar(int val, int max);
-// Prints a graph comparing the sample values visually 
+// Prints a graph comparing the sample values visually
 void printGraph(int samples[], int noOfSamples);
 // Performs a fool-proof integer entry
 int getInt(int min, int max);
@@ -41,7 +41,7 @@ int menu(int noOfSamples);
 // prints samples error message
 void samplesFirst();
 // Draws a line and adds a label if provided
-void line(int n, const char* label = nullptr); 
+void line(int n, const char* label = nullptr);
 
 
 // SeneGraph program
@@ -86,7 +86,7 @@ int main(){
 
 
 
-// prints a graph comparing the sample values visually 
+// prints a graph comparing the sample values visually
 void printGraph(int samples[], int noOfSamples){
   int max = findMax(samples, noOfSamples);
   line(GRAPH_WIDTH + 10, " Graph ");
@@ -118,7 +118,7 @@ void getSamples(int samples[], int noOfSamples){
 }
 
 // finds the largest sample in the samples array, if it is larger than GRAPH_WIDTH,
-// otherwise it will return GRAPH_WIDTH. 
+// otherwise it will return GRAPH_WIDTH.
 int findMax(int samples[], int noOfSamples){
   int max = samples[0];
   int i;
@@ -154,13 +154,13 @@ int getInt(int min, int max) {
 
 // moves the cursor backwards
 void goBack(int n) {
-   for (int i = 0; i < n; cout << "\b", i++);
+   for (int i = 0; i <= n; cout << "\b", i++);
 }
 
 // draw line
 void line(int n, const char* label) {
    cout << "+";
-   for (int i = 0; i < n - 2; cout << "-", i++);
+   for (int i = 0; i < n; cout << "-", i++);
    cout << "+";
    if (label) {
       goBack(n - 4);
