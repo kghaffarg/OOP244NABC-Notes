@@ -45,6 +45,8 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing git on windows 10](https://www.youtube.com/watch?v=PXQif4EZd3Y)  <br />
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=pttIoMyyMaM) <br />
 
+## Videos
+[How to Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylosAh1of4FnX7-g2fk0MUeyc)
 ## Lecture Videos
 
 
