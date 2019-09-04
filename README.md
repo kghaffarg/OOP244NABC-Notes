@@ -46,9 +46,9 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [Installing tortoise git (a git integration with windows file explorer)](https://www.youtube.com/watch?v=pttIoMyyMaM) <br />
 
 ## Videos
-[How to Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylosAh1of4FnX7-g2fk0MUeyc)
+[How to Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylosAh1of4FnX7-g2fk0MUeyc)<br />
 ## Lecture Videos
-
+[OOP244 - 2197 Play list](https://www.youtube.com/playlist?list=PLxB4x6RkylotY00trphKSA0fEfEzJp9zW)<br />
 
 ## Fardad's Schedule
 <table style="background-color: White; width: 608px; height: 506px;"
